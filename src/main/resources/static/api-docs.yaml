@@ -4,6 +4,10 @@ info:
   description: |-
     This is a Search Engine Server based on the OpenAPI 3.0 specification.
     The API specification is used to manage the application and search for information on query.
+    
+    Some useful links:
+    - [The Search Engine repository](https://github.com/Vasyabylba/search-engine)
+    - [The source API definition for the Search Engine](https://github.com/vasyabylba/search-engine/blob/master/src/main/resources/static/api-docs.yaml)
   contact:
     email: vasyabylba@gmail.com
   version: 1.0.0
